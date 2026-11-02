@@ -1,0 +1,45 @@
+# Saídas geradas pelo notebook
+prisma_*.csv
+prisma_*.bib
+prisma_*.json
+prisma_*.html
+*.png
+
+# Jupyter / IPython
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+*.egg
+.eggs/
+*.whl
+
+# Ambientes virtuais
+venv/
+.venv/
+env/
+.env/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ChromeDriver / WebDriver
+chromedriver
+chromedriver.exe
+geckodriver
+geckodriver.exe

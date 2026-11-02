@@ -1,0 +1,16 @@
+selenium>=4.18.0
+beautifulsoup4>=4.12.0
+requests>=2.31.0
+pandas>=2.1.0
+numpy>=1.26.0
+matplotlib>=3.8.0
+plotly>=5.18.0
+wordcloud>=1.9.3
+biopython>=1.83
+lxml>=5.1.0
+tqdm>=4.66.0
+kaleido>=0.2.1
+webdriver-manager>=4.0.1
+ipywidgets>=8.1.0
+nbformat>=5.9.0
+jupyterlab>=4.1.0
