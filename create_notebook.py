@@ -176,7 +176,9 @@ CONFIG = {
     #   "blockchain AND supply chain"
     #   "natural language processing AND sentiment analysis"
     # ----------------------------------------------------------
-    "tema": "machine learning AND healthcare",
+    # Tema em inglês para máxima cobertura nas bases internacionais
+    # (equivalente a "inteligência artificial AND educação")
+    "tema": "artificial intelligence AND education",
 
     # ----------------------------------------------------------
     # 🗄️  BASES DE DADOS ATIVAS (True = ativa, False = desativa)
@@ -221,7 +223,7 @@ CONFIG = {
     # ----------------------------------------------------------
     # 📧  EMAIL PARA API NCBI (obrigatório pelo PubMed)
     # ----------------------------------------------------------
-    "email_ncbi": "pesquisador@universidade.br",
+    "email_ncbi": "arthur.miura@gmail.com",
 }
 
 # --- Resumo da configuração ---
