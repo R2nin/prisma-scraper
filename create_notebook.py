@@ -17,12 +17,12 @@ cells.append(new_markdown_cell("""# Revisão Sistemática da Literatura — Prot
 ---
 | Campo | Valor |
 |---|---|
-| **Disciplina** | Python e Scraper/Crawler — 2º Semestre |
+| **Disciplina** | Sistemas de Informação |
 | **Professor** | Guilherme de Cleva Farto |
-| **Aluno** | *(preencha seu nome)* |
-| **RA** | *(preencha seu RA)* |
-| **Curso** | Sistema de Informação |
-| **Data** | *(data de execução)* |
+| **Aluno** | Arthur Naoto Miura |
+| **RA** | 2311600029 |
+| **Curso** | Python e Scraper/Crawler — 2º Semestre |
+| **Data** | 02/11/2026 |
 
 ---
 ## Sobre este Notebook

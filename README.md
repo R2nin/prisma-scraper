@@ -1,10 +1,10 @@
 # PRISMA 2020 — Revisão Sistemática da Literatura
 ### Projeto Final — Disciplina Python e Scraper/Crawler
 
-> **Disciplina:** Python e Scraper/Crawler — 2º Semestre  
+> **Disciplina:** Sistemas de Informação  
 > **Professor:** Guilherme de Cleva Farto  
-> **Curso:** Sistema de Informação  
-> **Aluno:** *(preencha seu nome e RA)*
+> **Curso:** Python e Scraper/Crawler — 2º Semestre  
+> **Aluno:** Arthur Naoto Miura — RA 2311600029
 
 ---
 
